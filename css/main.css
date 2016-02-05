@@ -193,7 +193,7 @@ a:focus{
   padding:10px 30px;
   border-radius: 30px;
   border:1px solid transparent;
-  background-color: #78588C;
+  background-color:#A94442; /*#78588C;*/
   font-size: 17px;
   line-height: 1.4;
   font-weight: normal;
@@ -217,7 +217,7 @@ a:focus{
 .btn:focus,
 .btn.focus {
   color:#fff;
-  background-color: #8E6BA5;
+  background-color: #A06F6E;/* #8E6BA5;*/
 }
 
 .btn:active{
@@ -656,7 +656,7 @@ label.error{
         
 .navbar.affix{
   position: fixed;
-  background-color:#78588C;
+  background-color:#A94442;/*#78588C;*/
   box-shadow: 0 0 20px rgba(0,0,0,0.2);
 }
 
@@ -1127,7 +1127,7 @@ img.mfp-img{
 
 
 
-.col-price{
+/*.col-price{
   position: relative;
   text-align: center;
   padding: 7px;
@@ -1202,7 +1202,7 @@ img.mfp-img{
   margin:0 -1px;
   background-color:#78588C;
   color:#fff;
-}
+}*/
 
 
 
@@ -1330,7 +1330,7 @@ img.mfp-img{
 }
 
 .modal-header{
-  background-color: #7B5A91;
+  background-color: #A94442;
   border-bottom: 0;
   color:#fff;
   text-align: center;
