@@ -9,10 +9,10 @@
 
 
 
-	//$(window).load(function(){
-    //    $('body').addClass('loaded');	
-	//	$('.loader').fadeOut(200);
-	//});
+	$(window).load(function(){
+        $('body').addClass('loaded');	
+		//$('.loader').fadeOut(200);
+	});
 
 
 	/*-------------------------------------------------------------------------------
